@@ -6,11 +6,13 @@
 * Aspen (осина)
 * Douglas-fir (псевдотсуга Мензиса)
 * Krummholz (криволесье) <br>
+
 В  ходе анализа было замечено в данных:
 * различное распределение параметра elevation
 * различные пропорции каждого из типов деревьев в исследуемых регионах
 * различные пропорции каждого из типов деревьев для каждого из видов почв
-
+[Вдохновение №1](https://www.fs.fed.us/psw/publications/north/psw_2016_north005.pdf)
+[Вдохновение №2](https://www.photopills.com/articles/understanding-azimuth-and-elevation)
 Варианты использования признаков:
 * точно не использовать: Wilderness Area, Horizontal Distance To Roadways, Horizontal Distance To Fire Points исходя из данной статьи
 * вертикальное и горизонтальное расстояния объеденить в новый признак - евклидово расстояние до воды
